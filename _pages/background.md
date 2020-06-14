@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, University of California, Los Angeles, (in progress)
   * Advisor: Jens Palsberg
 * M.S. in Computer Science, University of Illinois, Urbana-Champaign, 2020
-  * Advisor: Grigore Rosu, thesis: "Closing the Gap in the LLVM Backend of K'
+  * Advisor: Grigore Rosu, thesis: "Closing the Gap in the LLVM Backend of K"
 * B.S. in Computer Engineering, University of Illinois, Urbana-Champaign, 2018
   * Advisor: Zbigniew Kalbarczyk, thesis: "Raincoat and DNP3 on POX"
 
