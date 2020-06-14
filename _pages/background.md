@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Path: {{ base_path }}
-
 Education
 ======
 * Ph.D in Computer Science, University of California, Los Angeles, (in progress)
