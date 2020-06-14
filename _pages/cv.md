@@ -33,8 +33,14 @@ Work experience
 
 Teaching
 ======
-* SP20 - [CS 476](https://courses.engr.illinois.edu/cs476/sp2020/), UIUC
-* FA19 - [CS 440](https://courses.engr.illinois.edu/cs440/fa2019/), UIUC
+* SP20 - [CS 476](https://courses.engr.illinois.edu/cs476/sp2020/), Teaching Assistant, UIUC
+* FA18 - [CS 440](https://courses.engr.illinois.edu/cs440/fa2018/), Teaching Assistant, UIUC
+* FA17 - ENG 100, Lead Engineering Learning Assistant, UIUC
+  * Outstanding ICES ranking (top 10% of instructors)
+* FA16 - ENG 100, Engineering Learning Assistant, UIUC
+  * Outstanding ICES ranking (top 10% of instructors)
+* SP16, FA16, SP17 - ECE 391, Course Assistant, UIUC
+  * Top course assistant
 
 Technologies
 ======
