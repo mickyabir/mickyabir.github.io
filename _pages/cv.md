@@ -22,11 +22,19 @@ Education
 
 Work experience
 ======
-* Summer 2019: Compiler Backend Engineering Intern
+* Summer 2019: LLVM Backend Engineering Intern
   * Runtime Verification
 
 * Summer 2017: Software Engineering Intern
   * Uber
+
+* Summer 2016: System Support Engineering Intern
+  * U.S. Cellular
+
+Teaching
+======
+* SP20 - [CS 476](https://courses.engr.illinois.edu/cs476/sp2020/), UIUC
+* FA19 - [CS 440](https://courses.engr.illinois.edu/cs440/fa2019/), UIUC
 
 Technologies
 ======
@@ -40,25 +48,3 @@ Technologies
 * Maude
 * Swift
 * Git
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
