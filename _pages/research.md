@@ -13,7 +13,7 @@ IMPL
 
 Closing the Gap in the LLVM Backend of K
 ======
-M.S. Thesis. Abstract: "In this thesis, we further develop part of the K framework, a framework for specifying and executing the formal semantics of languages. We dive into the LLVM backend, one of the engines for concrete execution, and implement key functionality that is present in the other concrete execution engine. We then add a new interface that is unique to the LLVM backend, making this backend diverge from the other backend. Finally, with the backend caught up and divergent, we implement and evaluate pattern matching optimization strategies."
+[lM.S. Thesis](http://mickyabir.com/files/ms-thesis.pdf). Abstract: "In this thesis, we further develop part of the K framework, a framework for specifying and executing the formal semantics of languages. We dive into the LLVM backend, one of the engines for concrete execution, and implement key functionality that is present in the other concrete execution engine. We then add a new interface that is unique to the LLVM backend, making this backend diverge from the other backend. Finally, with the backend caught up and divergent, we implement and evaluate pattern matching optimization strategies."
 
 Raincoat and DNP3 on POX
 ======
