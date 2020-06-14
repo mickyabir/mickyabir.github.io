@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, University of Illinois, Urbana-Champaign, 2018
+* M.S. in Computer Science, University of Illinois, Urbana-Champaign, 2020
+* Ph.D in Computer Science, University of California, Los Angeles
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Compiler Backend Engineering Intern
+  * Runtime Verification
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2017: Software Engineering Intern
+  * Uber
+
+Technologies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* Python
+* JavaScript
+  * React
+  * Node
+  * Express
+  * MongoDB
+* Maude
+* Swift
+* Git
 
 Publications
 ======
