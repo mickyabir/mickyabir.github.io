@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year computer science Ph.D. student at UCLA under Professor [Jens Palsberg](http://web.cs.ucla.edu/~palsberg/)
+I am a an incoming first-year Computer Science Ph.D. student at UCLA under Professor [Jens Palsberg](http://web.cs.ucla.edu/~palsberg/). Previously, I have graduated from UIUC with a B.S. in Computer Engineering in 2018, and with an M.S. in Computer Science in 2020. While at UIUC, I worked on the K Framework under Professor Grigore Rosu, where I implemented the I/O and FFI interfaces in the LLVM backend, implemented and tested pattern matching heuristics, and helped transition projects to the LLVM backend.
 
-A data-driven personal website
+Research Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Programming Languages, Type Theory, Formal Methods and Verification, Quantum Computing
