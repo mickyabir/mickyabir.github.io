@@ -21,7 +21,8 @@ Education
 Work experience
 ======
 * Runtime Verification - LLVM Backend Engineering Intern, January 2019 - May 2020
-* Uber - Software Engineering Intern, Summer 2017
+* Uber, Summer 2017
+  Software Engineering Intern (iOS Rider App)
 * U.S. Cellular, System Support Engineering Intern, Summer 2016
 
 Teaching
