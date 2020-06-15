@@ -15,7 +15,7 @@ Education
   * Advisor: Jens Palsberg
 * M.S. in Computer Science, University of Illinois, Urbana-Champaign, 2020
   * Advisor: Grigore Rosu, thesis: "Closing the Gap in the LLVM Backend of K"
-* B.S. in Computer Engineering, University of Illinois, Urbana-Champaign, 2018
+* B.S. in Computer Engineering (Math minor), University of Illinois, Urbana-Champaign, 2018
   * Advisor: Zbigniew Kalbarczyk, thesis: "Raincoat and DNP3 on POX"
 
 Work experience
@@ -47,9 +47,8 @@ Technologies
   * Node
   * Express
   * MongoDB
-* Maude
 * Swift
-* Git
+* Maude
 
 Services
 ======
