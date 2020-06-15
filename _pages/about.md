@@ -12,7 +12,7 @@ I am an incoming first-year Computer Science Ph.D. student at UCLA under Profess
 
 While at UIUC, I worked on the [K Framework](http://www.kframework.org) under Professor Grigore Rosu, where I implemented the I/O and FFI interfaces in the LLVM backend, implemented and tested pattern matching heuristics, and helped transition projects to the LLVM backend. I also worked with Professor Jose Meseguer on **IMPL** and its prover, found [here](http://mickyabir.com/research/).
 
-I was born in Israel and moved to Illinois when I was around 10, and have stayed in Illinois to earn my two degrees. English and Hebrew are my native languages, but I also have an intermediate understanding of Japanese. My favorite things to do are playing the piano, drawing, skimming through papers, and learning about the stock market. Lately I have been especially interested in data analytics and visualization, for which I am prototyping new projects with the [MERN Stack](https://www.geeksforgeeks.org/mern-stack/) (or working on tiny dataviz projects, such as [tinybench](https://pypi.org/project/tinybench/)).
+I also enjoy working side projects, which include designing and building synthesizer modules and trying to build modern web and mobile apps. Lately I have been especially interested in data analytics and visualization, for which I am prototyping new projects with the [MERN Stack](https://www.geeksforgeeks.org/mern-stack/). I also like to work on tiny projects, such as [tinybench](https://pypi.org/project/tinybench/).
 
 Research Interest
 ======
