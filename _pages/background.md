@@ -29,6 +29,7 @@ Work experience
 
 Teaching
 ======
+* FA21 - CS 132, Teaching Assistant, UCLA
 * SP20 - [CS 476](https://courses.engr.illinois.edu/cs476/sp2020/), Teaching Assistant, UIUC
 * FA18 - [CS 440](https://courses.engr.illinois.edu/cs440/fa2018/), Teaching Assistant, UIUC
 * FA17 - ENG 100, Lead Engineering Learning Assistant, UIUC
