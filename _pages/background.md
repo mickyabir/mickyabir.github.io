@@ -9,23 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Work Experience
 ======
-* Ph.D in Computer Science, University of California, Los Angeles, (in progress)
-  * Advisor: Jens Palsberg
-* M.S. in Computer Science, University of Illinois, Urbana-Champaign, 2020
-  * Advisor: Grigore Rosu, thesis: "Closing the Gap in the LLVM Backend of K"
-* B.S. in Computer Engineering (Math minor), University of Illinois, Urbana-Champaign, 2018
-  * Advisor: Zbigniew Kalbarczyk, thesis: "Raincoat and DNP3 on POX"
-
-Work experience
-======
+* Flyby Robotics, Mar 2024 - Present
+  * Software Engineer
 * Runtime Verification, Jan 2019 - May 2020
   * LLVM Backend Engineering Intern
 * Uber, Summer 2017
   * Software Engineering Intern (iOS Rider App)
 * U.S. Cellular, Summer 2016
   * System Support Engineering Intern
+
+Education
+======
+* Ph.D in Computer Science, University of California, Los Angeles, 2020 - Incomplete
+* M.S. in Computer Science, University of Illinois, Urbana-Champaign, 2020
+  * Advisor: Grigore Rosu, thesis: "Closing the Gap in the LLVM Backend of K"
+* B.S. in Computer Engineering (Math minor), University of Illinois, Urbana-Champaign, 2018
+  * Advisor: Zbigniew Kalbarczyk, thesis: "Raincoat and DNP3 on POX"
 
 Teaching
 ======
@@ -43,13 +44,13 @@ Technologies
 ======
 * C/C++
 * Python
+* Docker
+* Google Cloud Platform
+* GStreamer
+* Nvidia Jetson
 * JavaScript
+  * Electron
   * React
-  * Node
-  * Express
-  * MongoDB
-* Swift
-* Maude
 
 Services
 ======
